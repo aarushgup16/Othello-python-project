@@ -1,4 +1,4 @@
-EMPTY = "."
+EMPTY = "○"
 BLACK = "B"
 WHITE = "W"
 
