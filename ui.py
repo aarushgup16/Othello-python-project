@@ -4,7 +4,7 @@ from game_logic import valid_moves, make_move
 
 def display_board(board, moves=None):
     #Print the board. Mark valid moves with '*' if provided.
-    header = "  a b c d e f g h"
+    header = "  A B C D E F G H"
     print(header)
     for r in range(8):
         print(r + 1, end=" ")
